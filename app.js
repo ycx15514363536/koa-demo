@@ -7,7 +7,7 @@ const axios = require('axios');
 const fs = require('fs');
 const WXBizDataCrypt = require('./static/js/WXBizDataCrypt');
 
-// 请自行填入总结的小程序信息
+// 需填入对应的小程序信息
 const appId = 'xxxx';
 const secret = 'xxxxx';
 
